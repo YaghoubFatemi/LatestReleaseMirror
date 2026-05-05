@@ -4,4 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-macos-arm64-app.zip
+therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-macos-arm64.tar.gz
