@@ -4,4 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-ircfspace/teleMirror|tele-mirror-mac-arm64.zip
+ircfspace/teleMirror|tele-mirror-mac-arm64.dmg
